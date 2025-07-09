@@ -1,1 +1,1 @@
-# final-sql-project-engeto
+# Finální projekt
