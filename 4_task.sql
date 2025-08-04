@@ -18,7 +18,8 @@ SELECT
     ,price_year
     ,avg_price
     ,avg_salary_by_year_czechia
-FROM food_price_vs_salary
+FROM 
+    food_price_vs_salary
 LEFT JOIN 
 	czechia_price_category AS cpc 
 ON 

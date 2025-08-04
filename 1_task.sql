@@ -48,8 +48,11 @@ FROM
 	industry_salary_trend ist
 INNER JOIN 
 	czechia_payroll_industry_branch cpib 
-	ON ist.industry_branch_code = cpib.code 
+ON 
+	ist.industry_branch_code = cpib.code 
 WHERE 
 	ist.difference_salary_from_previous > 0
-GROUP BY cpib."name"
-ORDER BY "count" DESC;
+GROUP BY 
+	cpib."name"
+ORDER BY 
+	"count" DESC;

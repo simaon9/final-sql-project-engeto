@@ -29,10 +29,14 @@ SELECT
 	,pc.name AS product_name
 	,pc.price_unit
 	,round(selected_products_minmax_years.avg_salary_by_year_czechia / selected_products_minmax_years.avg_price, 2) how_many 
-FROM selected_products_minmax_years
-LEFT JOIN czechia_price_category pc
-	ON category_code = pc.code
-ORDER BY category_code, price_year;
+FROM 
+	selected_products_minmax_years
+LEFT JOIN 
+	czechia_price_category pc
+ON 
+	category_code = pc.code
+ORDER BY 
+	category_code, price_year;
 
 -- z dat vyplývá, že chleba i mléko jsou dostupnější než dříve -> i přes stoupající cenu potraviny, protože stoupala i průměrná mzda
 SELECT * FROM affordability_comparison
