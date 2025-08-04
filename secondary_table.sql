@@ -8,10 +8,10 @@ SELECT
 	,e.gdp
 	,e.gini
 	,e.population
-FROM postgres.data_academy_content.economies e 
+FROM economies e 
 WHERE country IN (
 	SELECT country 
-	FROM postgres.data_academy_content.countries c
+	FROM countries c
 	WHERE continent = 'Europe' 
 ) 
 	AND "year" >= 2006 

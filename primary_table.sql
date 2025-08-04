@@ -8,7 +8,7 @@ CREATE TABLE industry_average_payroll as
 			,cp.industry_branch_code
 			,avg(cp.value) AS avg_salary_by_year
 		FROM 
-			postgres.data_academy_content.czechia_payroll AS cp 
+			czechia_payroll AS cp 
 		WHERE 
 			value_type_code = 5958 -- Průměrná hrubá mzda na zaměstnance
 			AND calculation_code = 100 -- Fyzický
@@ -30,7 +30,7 @@ CREATE VIEW avg_salary_by_year_czechia_view AS
 		cp.payroll_year AS "year"
 		,avg(cp.value) AS avg_salary_by_year_czechia
 	FROM 
-		postgres.data_academy_content.czechia_payroll AS cp 
+		czechia_payroll AS cp 
 	WHERE 
 		cp.value_type_code = 5958 
 		AND cp.calculation_code = 100 
@@ -49,7 +49,7 @@ CREATE VIEW gpd_czechia_by_year_view AS
 		,e.year AS "year"
 		,e.gdp AS gdp
 	FROM 
-		postgres.data_academy_content.economies AS e 
+		economies AS e 
 	WHERE 
 		e.country = 'Czech Republic' 
 		AND e.year >= 2006 
@@ -66,7 +66,7 @@ WITH avg_prices AS (
 		,EXTRACT(YEAR FROM date_from) AS "year" 
 		,ROUND(avg(value)::NUMERIC, 2) avg_price -- průměrná cena potraviny v daném roce
 	FROM 
-		postgres.data_academy_content.czechia_price AS cp 
+		czechia_price AS cp 
 	WHERE 
 		region_code IS NULL 
 	GROUP BY category_code, EXTRACT(YEAR FROM date_from)

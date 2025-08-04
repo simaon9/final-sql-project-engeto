@@ -30,7 +30,7 @@ SELECT
 FROM 
 	base_food_price_by_year
 LEFT JOIN 
-    postgres.data_academy_content.czechia_price_category pc
+    czechia_price_category pc
 ON 
 	category_code = pc.code
 ORDER BY 
@@ -59,7 +59,7 @@ SELECT
 FROM 
 	avg_price_growth_by_category AS apg
 LEFT JOIN 
-	postgres.data_academy_content.czechia_price_category AS cpc 
+	czechia_price_category AS cpc 
 ON 
 	apg.category_code = cpc.code 
 WHERE 

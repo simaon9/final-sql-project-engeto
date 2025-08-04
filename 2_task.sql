@@ -30,7 +30,7 @@ SELECT
 	,pc.price_unit
 	,round(selected_products_minmax_years.avg_salary_by_year_czechia / selected_products_minmax_years.avg_price, 2) how_many 
 FROM selected_products_minmax_years
-LEFT JOIN postgres.data_academy_content.czechia_price_category pc
+LEFT JOIN czechia_price_category pc
 	ON category_code = pc.code
 ORDER BY category_code, price_year;
 

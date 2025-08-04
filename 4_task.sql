@@ -20,7 +20,7 @@ SELECT
     ,avg_salary_by_year_czechia
 FROM food_price_vs_salary
 LEFT JOIN 
-	postgres.data_academy_content.czechia_price_category AS cpc 
+	czechia_price_category AS cpc 
 ON 
 	category_code = cpc.code 
 

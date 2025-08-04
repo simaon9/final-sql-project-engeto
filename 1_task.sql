@@ -29,7 +29,7 @@ SELECT
 FROM 
 	industry_salary_trend 
 INNER JOIN 
-	postgres.data_academy_content.czechia_payroll_industry_branch cpib 
+	czechia_payroll_industry_branch cpib 
 ON 
 	industry_salary_trend.industry_branch_code = cpib.code 
 WHERE 
@@ -47,7 +47,7 @@ SELECT
 FROM 
 	industry_salary_trend ist
 INNER JOIN 
-	postgres.data_academy_content.czechia_payroll_industry_branch cpib 
+	czechia_payroll_industry_branch cpib 
 	ON ist.industry_branch_code = cpib.code 
 WHERE 
 	ist.difference_salary_from_previous > 0
