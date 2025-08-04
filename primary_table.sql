@@ -40,8 +40,6 @@ CREATE VIEW avg_salary_by_year_czechia_view AS
 	GROUP BY cp.payroll_year 
 	ORDER BY cp.payroll_year;
 
-SELECT * FROM avg_salary_by_year_czechia_view
-
 -- HDP (anglicky GPD) v ČR v letech 2006 až 2018
 DROP VIEW IF EXISTS gpd_czechia_by_year_view;
 
@@ -57,8 +55,6 @@ CREATE VIEW gpd_czechia_by_year_view AS
 		AND e.year >= 2006 
 		AND e.year <= 2018 
 	ORDER BY e.year;
-
-SELECT * FROM gpd_czechia_by_year_view
 
 -- průměrné ceny potravin, průměrný plat a HDP pro jednotlivé roky a jednotlivé potraviny
 DROP TABLE IF EXISTS food_prices_with_salary_gdp_by_year;
@@ -89,8 +85,6 @@ WHERE
 	AND ap."year" = gpd.YEAR
 ORDER BY ap.category_code, ap."year";
 
-SELECT * FROM food_prices_with_salary_gdp_by_year
-
 -- finální 1. tabulka
 DROP TABLE IF EXISTS t_ondrej_simanek_project_SQL_primary_final
 
@@ -100,6 +94,7 @@ SELECT
     ,industry.industry_branch_code
 	,industry.avg_salary_by_year
     ,price."year" as price_year
+	,price.category_code
     ,price.avg_price
     ,price.avg_salary_by_year_czechia
     ,price.gdp

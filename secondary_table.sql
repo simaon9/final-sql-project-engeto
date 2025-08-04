@@ -1,3 +1,4 @@
+--Skript vybírá HDP, GINI a populaci evropských zemí (2006–2018) a ukládá je do jedné tabulky
 DROP TABLE IF EXISTS t_ondrej_simanek_project_SQL_secondary_final
 
 CREATE TABLE t_ondrej_simanek_project_SQL_secondary_final AS
