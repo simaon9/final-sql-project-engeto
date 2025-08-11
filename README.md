@@ -17,11 +17,11 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
 1.  Podle výsledků datové analýzy lze říci, že mzdy v průběhu let nerostou ve všech odvětvích. Největší pokles zaznamenalo odvětví **Těžba a dobývání**, kde došlo k meziročnímu snížení mezd hned **čtyřikrát**. V ostatních odvětvích se pokles vyskytl pouze 1–2krát.
 
     Naopak v následujících odvětvích mzdy rostly každý rok bez výjimky:
-        - Doprava a skladování
-        - Administrativní a podpůrné činnosti
-        - Zdravotní a sociální péče
-        - Ostatní činnosti
-        - Zpracovatelský průmysl
+    - Doprava a skladování
+    - Administrativní a podpůrné činnosti
+    - Zdravotní a sociální péče
+    - Ostatní činnosti
+    - Zpracovatelský průmysl
 
 2.  V roce **2006** bylo možné si za průměrnou mzdu koupit:  
 - **1 172,57 kg** chleba  
@@ -35,11 +35,11 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
 
 3.  Podle dat mají nejnižší průměrný meziroční procentuální nárůst ceny tyto potraviny (seřazeno od nejpomaleji zdražujících - vybráno TOP 5 potravin):
 
-        1. **Banány žluté** – **0,81 %**  
-        2. **Vepřová pečeně s kostí** – **0,99 %**  
-        3. **Přírodní minerální voda uhličitá** – **1,03 %**  
-        4. **Šunkový salám** – **1,86 %**  
-        5. **Jablka konzumní** – **2,02 %**  
+    1. **Banány žluté** – **0,81 %**  
+    2. **Vepřová pečeně s kostí** – **0,99 %**  
+    3. **Přírodní minerální voda uhličitá** – **1,03 %**  
+    4. **Šunkový salám** – **1,86 %**  
+    5. **Jablka konzumní** – **2,02 %**  
 
     Z toho vyplývá, že **banány žluté** zdražují v průměru nejpomaleji.
 
@@ -47,11 +47,11 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
 
     Nejvýraznější rozdíly byly zaznamenány zejména u těchto kombinací rok–potravina:  
 
-        1. **2011 – Máslo**: růst ceny **+250,90 %** vs. růst mezd **+2,22 %** → rozdíl **+248,68 p. b.**  
-        2. **2007 – Eidamská cihla**: **+199,49 %** vs. **+6,75 %** → **+192,74 p. b.**  
-        3. **2013 – Eidamská cihla**: **+180,39 %** vs. **−0,13 %** → **+180,52 p. b.**  
-        4. **2012 – Vejce slepičí čerstvá**: **+125,10 %** vs. **+2,58 %** → **+122,52 p. b.**  
-        5. **2010 – Máslo**: **+122,00 %** vs. **+2,08 %** → **+119,92 p. b.**  
+    1. **2011 – Máslo**: růst ceny **+250,90 %** vs. růst mezd **+2,22 %** → rozdíl **+248,68 p. b.**  
+    2. **2007 – Eidamská cihla**: **+199,49 %** vs. **+6,75 %** → **+192,74 p. b.**  
+    3. **2013 – Eidamská cihla**: **+180,39 %** vs. **−0,13 %** → **+180,52 p. b.**  
+    4. **2012 – Vejce slepičí čerstvá**: **+125,10 %** vs. **+2,58 %** → **+122,52 p. b.**  
+    5. **2010 – Máslo**: **+122,00 %** vs. **+2,08 %** → **+119,92 p. b.**  
 
     Tyto extrémní rozdíly se objevují napříč sledovanými lety, ale často se týkají **másla**, **eidamské cihly** a **vajec**.
 
