@@ -14,59 +14,56 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 
 ### Odpovědi:
-1. Podle výsledků datové analýzy lze říci, že mzdy v průběhu let nerostou ve všech odvětvích. Největší pokles zaznamenalo odvětví **Těžba a dobývání**, kde došlo k meziročnímu snížení mezd hned **čtyřikrát**. V ostatních odvětvích se pokles vyskytl pouze 1–2krát.
+1.  Podle výsledků datové analýzy lze říci, že mzdy v průběhu let nerostou ve všech odvětvích. Největší pokles zaznamenalo odvětví **Těžba a dobývání**, kde došlo k meziročnímu snížení mezd hned **čtyřikrát**. V ostatních odvětvích se pokles vyskytl pouze 1–2krát.
 
-Naopak v následujících odvětvích mzdy rostly každý rok bez výjimky:
-- Doprava a skladování
-- Administrativní a podpůrné činnosti
-- Zdravotní a sociální péče
-- Ostatní činnosti
-- Zpracovatelský průmysl
+    Naopak v následujících odvětvích mzdy rostly každý rok bez výjimky:
+        - Doprava a skladování
+        - Administrativní a podpůrné činnosti
+        - Zdravotní a sociální péče
+        - Ostatní činnosti
+        - Zpracovatelský průmysl
 
-2. V roce **2006** bylo možné si za průměrnou mzdu koupit:  
+2.  V roce **2006** bylo možné si za průměrnou mzdu koupit:  
 - **1 172,57 kg** chleba  
 - **1 308,99 l** mléka  
 
-V roce **2018** to bylo již:  
+    V roce **2018** to bylo již:  
 - **1 278,8 kg** chleba  
 - **1 563,98 l** mléka  
 
-Z toho vyplývá, že dostupnost obou potravin se v průběhu sledovaného období **zvýšila** – a to i přes růst jejich cen, protože průměrná mzda rostla rychleji.
+    Z toho vyplývá, že dostupnost obou potravin se v průběhu sledovaného období **zvýšila** – a to i přes růst jejich cen, protože průměrná mzda rostla rychleji.
 
-3. Podle dat mají nejnižší průměrný meziroční procentuální nárůst ceny tyto potraviny  
-(seřazeno od nejpomaleji zdražujících - vybráno TOP 5 potravin):
+3.  Podle dat mají nejnižší průměrný meziroční procentuální nárůst ceny tyto potraviny (seřazeno od nejpomaleji zdražujících - vybráno TOP 5 potravin):
 
-1. **Banány žluté** – **0,81 %**  
-2. **Vepřová pečeně s kostí** – **0,99 %**  
-3. **Přírodní minerální voda uhličitá** – **1,03 %**  
-4. **Šunkový salám** – **1,86 %**  
-5. **Jablka konzumní** – **2,02 %**  
+        1. **Banány žluté** – **0,81 %**  
+        2. **Vepřová pečeně s kostí** – **0,99 %**  
+        3. **Přírodní minerální voda uhličitá** – **1,03 %**  
+        4. **Šunkový salám** – **1,86 %**  
+        5. **Jablka konzumní** – **2,02 %**  
 
-Z toho vyplývá, že **banány žluté** zdražují v průměru nejpomaleji.
+    Z toho vyplývá, že **banány žluté** zdražují v průměru nejpomaleji.
 
-4. Ano, v dostupných datech existuje více případů, kdy byl meziroční nárůst cen potravin výrazně vyšší než růst mezd — a to o více než **10 procentních bodů**.  
+4.  Ano, v dostupných datech existuje více případů, kdy byl meziroční nárůst cen potravin výrazně vyšší než růst mezd — a to o více než **10 procentních bodů**.  
 
-Nejvýraznější rozdíly byly zaznamenány zejména u těchto kombinací rok–potravina:  
+    Nejvýraznější rozdíly byly zaznamenány zejména u těchto kombinací rok–potravina:  
 
-1. **2011 – Máslo**: růst ceny **+250,90 %** vs. růst mezd **+2,22 %** → rozdíl **+248,68 p. b.**  
-2. **2007 – Eidamská cihla**: **+199,49 %** vs. **+6,75 %** → **+192,74 p. b.**  
-3. **2013 – Eidamská cihla**: **+180,39 %** vs. **−0,13 %** → **+180,52 p. b.**  
-4. **2012 – Vejce slepičí čerstvá**: **+125,10 %** vs. **+2,58 %** → **+122,52 p. b.**  
-5. **2010 – Máslo**: **+122,00 %** vs. **+2,08 %** → **+119,92 p. b.**  
+        1. **2011 – Máslo**: růst ceny **+250,90 %** vs. růst mezd **+2,22 %** → rozdíl **+248,68 p. b.**  
+        2. **2007 – Eidamská cihla**: **+199,49 %** vs. **+6,75 %** → **+192,74 p. b.**  
+        3. **2013 – Eidamská cihla**: **+180,39 %** vs. **−0,13 %** → **+180,52 p. b.**  
+        4. **2012 – Vejce slepičí čerstvá**: **+125,10 %** vs. **+2,58 %** → **+122,52 p. b.**  
+        5. **2010 – Máslo**: **+122,00 %** vs. **+2,08 %** → **+119,92 p. b.**  
 
-Tyto extrémní rozdíly se objevují napříč sledovanými lety, ale často se týkají **másla**, **eidamské cihly** a **vajec**.
+    Tyto extrémní rozdíly se objevují napříč sledovanými lety, ale často se týkají **másla**, **eidamské cihly** a **vajec**.
 
-5. Na základě dostupných dat **nelze prokázat jednoznačný a přímý vliv růstu HDP na výraznější růst mezd nebo cen potravin** ve stejném či následujícím roce.  
+5.  Na základě dostupných dat **nelze prokázat jednoznačný a přímý vliv růstu HDP na výraznější růst mezd nebo cen potravin** ve stejném či následujícím roce.  
 
-V letech s vyšším růstem HDP (např. **2007**, **2015**, **2017**) sice často dochází i k růstu mezd,  
-ale změny cen potravin jsou méně konzistentní — v některých letech (např. **2015** a **2016**) dokonce ceny potravin v průměru **klesaly**.  
+    V letech s vyšším růstem HDP (např. **2007**, **2015**, **2017**) sice často dochází i k růstu mezd, ale změny cen potravin jsou méně konzistentní — v některých letech (např. **2015** a **2016**) dokonce ceny potravin v průměru **klesaly**.  
 
-**Příklady:**  
-- **2017**: HDP **+5,17 %**, mzdy **+6,94 %**, ceny potravin **+9,63 %**  
-- **2015**: HDP **+5,39 %**, mzdy **+3,17 %**, ceny potravin **−0,54 %**  
+    **Příklady:**  
+        - **2017**: HDP **+5,17 %**, mzdy **+6,94 %**, ceny potravin **+9,63 %**  
+        - **2015**: HDP **+5,39 %**, mzdy **+3,17 %**, ceny potravin **−0,54 %**  
 
-To naznačuje, že **mzdová úroveň může na růst HDP reagovat častěji než ceny potravin**,  
-ale vztah není dostatečně silný ani pravidelný, aby se dal považovat za jasný vzorec.
+    To naznačuje, že **mzdová úroveň může na růst HDP reagovat častěji než ceny potravin**, ale vztah není dostatečně silný ani pravidelný, aby se dal považovat za jasný vzorec.
 
 ### Výsledné skripty:
 1. ***primary_table.sql*** - skript vytváří tabulku kombinující průměrné mzdy podle odvětví, průměrné ceny potravin, celostátní průměrné mzdy a HDP ČR v letech 2006–2018. Data pocházejí z více zdrojů a jsou sjednocena podle roku pro následnou analýzu.
