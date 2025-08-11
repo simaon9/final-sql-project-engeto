@@ -22,17 +22,17 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
     - Zdravotní a sociální péče
     - Ostatní činnosti
     - Zpracovatelský průmysl
-
+# 
 2.  V roce **2006** bylo možné si za průměrnou mzdu koupit:  
-- **1 172,57 kg** chleba  
-- **1 308,99 l** mléka  
+    - **1 172,57 kg** chleba  
+    - **1 308,99 l** mléka  
 
     V roce **2018** to bylo již:  
-- **1 278,8 kg** chleba  
-- **1 563,98 l** mléka  
+    - **1 278,8 kg** chleba  
+    - **1 563,98 l** mléka  
 
     Z toho vyplývá, že dostupnost obou potravin se v průběhu sledovaného období **zvýšila** – a to i přes růst jejich cen, protože průměrná mzda rostla rychleji.
-
+# 
 3.  Podle dat mají nejnižší průměrný meziroční procentuální nárůst ceny tyto potraviny (seřazeno od nejpomaleji zdražujících - vybráno TOP 5 potravin):
 
     1. **Banány žluté** – **0,81 %**  
@@ -42,7 +42,7 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
     5. **Jablka konzumní** – **2,02 %**  
 
     Z toho vyplývá, že **banány žluté** zdražují v průměru nejpomaleji.
-
+# 
 4.  Ano, v dostupných datech existuje více případů, kdy byl meziroční nárůst cen potravin výrazně vyšší než růst mezd — a to o více než **10 procentních bodů**.  
 
     Nejvýraznější rozdíly byly zaznamenány zejména u těchto kombinací rok–potravina:  
@@ -54,7 +54,7 @@ Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná da
     5. **2010 – Máslo**: **+122,00 %** vs. **+2,08 %** → **+119,92 p. b.**  
 
     Tyto extrémní rozdíly se objevují napříč sledovanými lety, ale často se týkají **másla**, **eidamské cihly** a **vajec**.
-
+# 
 5.  Na základě dostupných dat **nelze prokázat jednoznačný a přímý vliv růstu HDP na výraznější růst mezd nebo cen potravin** ve stejném či následujícím roce.  
 
     V letech s vyšším růstem HDP (např. **2007**, **2015**, **2017**) sice často dochází i k růstu mezd, ale změny cen potravin jsou méně konzistentní — v některých letech (např. **2015** a **2016**) dokonce ceny potravin v průměru **klesaly**.  
